@@ -1,0 +1,34 @@
+{
+  "status": "OK",
+  "resp": {
+    "state": "CHECKED_SUCCESS",
+    "error": null,
+    "pages": 1,
+    "chars": 858,
+    "price": 1,
+    "progress": 20,
+    "progressText": "работа над текстом...\r\n",
+    "kvas": {
+      "canBecameWriter": true,
+      "canPurchaseYearBond": false,
+      "status": "TRIAL",
+      "licenseKind": "FREE",
+      "licenseExpires": null,
+      "licenseCheckCount": null,
+      "paymentExpires": null,
+      "specialPurchase": false,
+      "specialPurchaseDate": "0",
+      "specialPurchaseTotal": 20000,
+      "specialPurchaseDayRemain": 67,
+      "specialPurchaseCurrent": 377,
+      "stats": {
+        "regDate": 1496149632000,
+        "checks": 18,
+        "checksSincePrevMotivation": 0,
+        "totalDelayTime": 0
+      },
+      "notifications": []
+    }
+  },
+  "message": {}
+}

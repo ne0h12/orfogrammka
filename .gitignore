@@ -1,0 +1,6 @@
+vendor
+var/logs/
+var/code-coverage/
+phpunit.xml
+!.gitkeep
+.idea

@@ -1,0 +1,17 @@
+{
+  "message": {},
+  "resp": {
+    "allowAnnotationChars": 1515,
+    "annotations": {
+      "annotations": [],
+      "kinds": [],
+      "kindsOrder": [],
+      "otherErrors": [],
+      "water": {
+        "content": 0
+      }
+    },
+    "html": "<p>Hello world!</p>"
+  },
+  "status": "OK"
+}

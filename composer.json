@@ -1,0 +1,40 @@
+{
+    "name": "ne0h12/orfogrammka",
+    "type": "library",
+    "license": "MIT",
+    "description": "Api client for orfogrammka.ru",
+    "authors": [
+        {
+            "name": "Klyachin Andrew",
+            "email": "sfdiem5@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.1",
+        "monolog/monolog": "@stable",
+        "php-http/client-common": "@stable",
+        "php-http/logger-plugin": "@stable",
+        "php-http/curl-client": "@stable",
+        "guzzlehttp/psr7": "@stable",
+        "php-http/message": "@stable",
+        "kayex/http-codes": "@stable"
+    },
+    "autoload": {
+        "psr-4": {
+            "Orfogrammka\\": "src/Orfogrammka"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.0",
+        "php-http/mock-client": "@stable"
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Orfogrammka\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "php vendor/bin/phpunit"
+    }
+
+}

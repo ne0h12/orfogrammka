@@ -1,0 +1,13 @@
+{
+  "status": "OK",
+  "resp": {
+    "state": "ESTIMATED_SUCCESS",
+    "error": null,
+    "pages": 1,
+    "chars": 1,
+    "price": 1,
+    "progress": null,
+    "progressText": null
+  },
+  "message": {}
+}

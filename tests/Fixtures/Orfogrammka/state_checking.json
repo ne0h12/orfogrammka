@@ -1,0 +1,13 @@
+{
+  "status": "OK",
+  "resp": {
+    "state": "CHECKING",
+    "error": null,
+    "pages": 1,
+    "chars": 1,
+    "price": 1,
+    "progress": 18,
+    "progressText": "работа над текстом...\r\n"
+  },
+  "message": {}
+}

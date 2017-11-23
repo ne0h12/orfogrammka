@@ -1,0 +1,13 @@
+{
+  "status": "OK",
+  "resp": {
+    "state": "WAITING_CHECK",
+    "error": null,
+    "pages": 1,
+    "chars": 1,
+    "price": 1,
+    "progress": 0,
+    "progressText": ""
+  },
+  "message": {}
+}

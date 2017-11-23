@@ -1,0 +1,32 @@
+{
+  "status": "OK",
+  "resp": {
+    "email": "account@orfogrammka.ru",
+    "displayName": "andrey.klyachin",
+    "profile": null,
+    "occupation": null,
+    "sex": null,
+    "social": [],
+    "kvas": {
+      "status": "BAD_GUY",
+      "licenseKind": "FREE",
+      "licenseExpires": null,
+      "licenseCheckCount": null,
+      "paymentExpires": null,
+      "specialPurchase": false,
+      "specialPurchaseDate": "0",
+      "specialPurchaseTotal": 20000,
+      "specialPurchaseCurrent": 384,
+      "notifications": []
+    },
+    "stats": {
+      "regDate": 1509370403000,
+      "checks": 26,
+      "checksSincePrevMotivation": 0,
+      "totalDelayTime": 0
+    },
+    "after": null,
+    "affiliate": null
+  },
+  "message": {}
+}
