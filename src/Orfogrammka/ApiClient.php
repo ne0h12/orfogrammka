@@ -51,10 +51,11 @@ class ApiClient
     {
         $url  = $this->rootUrl . '/кабинет/ajax/documents.jsp';
         $body = [
-            'action' => 'PASTE',
-            'title'  => '',
-            'html'   => $html,
-            'text'   => $text
+            'action'  => 'PASTE',
+            'title'   => '',
+            'html'    => $html,
+            'text'    => $text,
+            'profile' => 'COMMON'
         ];
 
         return $this->sendRequest($url, $body)->getDocument();
